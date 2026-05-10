@@ -91,8 +91,8 @@ table {
 			<table>
 				<tr>
 					<td class="port-td">
-						<a href="./pageBoard/00index.jsp" class="port-a">
-							<img src="./image/pageBoard.png" class="port-img"><br>페이지 게시판
+						<a href="./board/00index.jsp" class="port-a">
+							<img src="./image/board.png" class="port-img"><br>게시판
 						</a>
 					</td>
 					<td class="port-td">
@@ -101,13 +101,13 @@ table {
 						</a>
 					</td>
 					<td class="port-td">
-						<a href="./pageBoard/00index.jsp" class="port-a">
-							<img src="./image/pageBoard.png" class="port-img"><br>페이지 게시판
+						<a href="./member/index.jsp" class="port-a">
+							<img src="./image/member.png" class="port-img"><br>회원관리
 						</a>
 					</td>
 					<td class="port-td">
-						<a href="./vote/00index.jsp" class="port-a">
-							<img src="./image/vote.png" class="port-img"><br>투표 시스템
+						<a href="./pageBoard/00index.jsp" class="port-a">
+							<img src="./image/pageBoard.png" class="port-img"><br>페이지 게시판
 						</a>
 					</td>
 				</tr>

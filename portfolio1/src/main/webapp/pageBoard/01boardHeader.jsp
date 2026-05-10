@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게시판</title>
+<title>페이지 게시판</title>
 <style>
 * {
 	margin: 0 auto;
@@ -47,7 +47,7 @@ table {
 <body>
 	<br>
 	<div class="header-div">
-		<h1 class="header-title">게시판</h1>
+		<h1 class="header-title">페이지 게시판</h1>
 		<table border="1">
 			<tr class="header-tr">
 				<td><button onclick="location.href='02main.jsp'">메인</button></td>
