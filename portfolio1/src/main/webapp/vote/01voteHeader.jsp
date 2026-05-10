@@ -37,7 +37,7 @@ table {
 				<td><button onclick="location.href='02openVote.jsp'">투표만들기</button></td>
 				<td><button onclick="location.href='04vote.jsp'">투표하기</button></td>
 				<td><button onclick="location.href='05voteStatus.jsp'">투표현황</button></td>
-				<td><button>전부삭제</button></td>
+				<td><button onclick="location.href='06deleteAll.jsp'">전부삭제</button></td>
 				<td><button onclick="location.href='../portfolio.jsp'">처음으로</button></td>
 			</tr>
 		</table>
