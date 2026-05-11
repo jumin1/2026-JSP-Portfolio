@@ -110,6 +110,11 @@ table {
 							<img src="./image/pageBoard.png" class="port-img"><br>페이지 게시판
 						</a>
 					</td>
+					<td class="port-td">
+						<a href="./kiosk/index.jsp" class="port-a">
+							<img src="./image/kiosk.png" class="port-img"><br>키오스크
+						</a>
+					</td>
 				</tr>
 			</table>
 		</div>
